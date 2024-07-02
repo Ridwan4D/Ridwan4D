@@ -18,3 +18,13 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
+
+    <h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+<h2 align="left">:heart: Let's get connected:</h2>
