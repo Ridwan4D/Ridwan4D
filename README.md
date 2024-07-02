@@ -24,7 +24,7 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 </div>
-
+</br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
