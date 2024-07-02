@@ -10,6 +10,10 @@
 <p>:rocket: Always ready to collaborate for Dev Experiments</p>
 <p>:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</p>
 </div>
+</br>
+<div align=center>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ridwan4D&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div align="center">
 <p align="center">
@@ -27,9 +31,6 @@
 </br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ridwan4D&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
 
 
 
