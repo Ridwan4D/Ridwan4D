@@ -6,7 +6,7 @@
 <div align="center">
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 <p>:computer: I'm a Frontend Developer, currently exploring Nextjs</p>
-<p>:hourglass_flowing_sand: Exploring Daily.deb</p>
+<p>:hourglass_flowing_sand: Exploring Daily.dev</p>
 <p>:rocket: Always ready to collaborate for Dev Experiments</p>
 <p>:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</p>
 </div>
