@@ -5,11 +5,10 @@
 <img alt="Coder GIF" height=400 width=1000 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <div align="center">
  <h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm a Frontend Developer, currently exploring Nextjs
-- :hourglass_flowing_sand: Exploring Daily.deb
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+:computer: I'm a Frontend Developer, currently exploring Nextjs
+:hourglass_flowing_sand: Exploring Daily.deb
+:rocket: Always ready to collaborate for Dev Experiments
+:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 </div>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
