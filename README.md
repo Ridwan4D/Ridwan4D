@@ -11,6 +11,8 @@
 <p>:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</p>
 </div>
 </br>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align=center>
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ridwan4D&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
@@ -29,8 +31,6 @@
 </p>
 </div>
 </br>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
 
 
