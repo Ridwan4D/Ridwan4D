@@ -26,4 +26,3 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 
-[![Ridwan's Github Stats](https://github-readme-stats.vercel.app/api?username=Ridwan4D)](https://github.com/anuraghazra/github-readme-stats)
